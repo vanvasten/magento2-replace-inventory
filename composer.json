@@ -10,7 +10,6 @@
     "magento/module-inventory-admin-ui": "*",
     "magento/module-inventory-advanced-checkout": "*",
     "magento/module-inventory-requisition-list": "*",
-    "magento/module-inventory-api": "*",
     "magento/module-inventory-bundle-import-export": "*",
     "magento/module-inventory-bundle-product": "*",
     "magento/module-inventory-bundle-product-indexer": "*",
