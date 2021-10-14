@@ -1,5 +1,5 @@
 {
-  "name": "yireo/magento2-replace-inventory",
+  "name": "vanvasten/magento2-replace-inventory",
   "require": {
     "magento/product-community-edition": "2.4.*"
   },
